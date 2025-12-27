@@ -27,10 +27,6 @@ Balance Vendor MAX
   </head>
 <body class="antialiased ">
 	<div class="page">
-
-		<!-- Header -->
-		<header class="navbar navbar-expand-md d-print-none header-top-primary">
-		<div class="container-fluid">
 		  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu" aria-controls="navbar-menu" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		  </button>
