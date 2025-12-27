@@ -1,6 +1,5 @@
-# dashboard
-Saldo vendor
 
+Balance Vendor MAX
 
 <html lang="en">
   <head>
