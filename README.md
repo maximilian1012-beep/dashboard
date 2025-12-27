@@ -148,8 +148,7 @@ Saldo vendor
 			  </div>
 			</div>
 			<div class="nav-item dropdown">
-			  <a href="#" class="nav-link d-flex lh-1 text-reset p-0" data-bs-toggle="dropdown" aria-label="Open user menu">
-				<span class="avatar avatar-sm" style="background-image: url(https://i.pravatar.cc/150?img=5)"></span>
+			  <a href="#" class="nav-link d-flex lh-1 text-reset p-0" data-bs-toggle="dropdown" aria-label="Open user menu">	
 				<div class="d-none d-xl-block ps-2">
 					<div>balanceviewer1b2b</div>
 					<div class="mt-1 small text-muted"></div>
